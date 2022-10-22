@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bianca Beatrix R. Quicho, Trix for short</h1>
 <h3 align="center">A passionate UI/UX Designer in the Philippines.</h3>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=trix0428&label=Profile%20views&color=0e75b6&style=flat" alt="trix0428" /> </p>
 
 - 🔭 I’m currently working on My Portfolio [Trix Quicho Portfolio](https://github.com/trix0428/Trix-Quicho-Portfolio)
 
